@@ -4,6 +4,7 @@
 运行第一步首先下载后台支持以及api接口，地址：链接：https://pan.baidu.com/s/1jDFHsPC_dvjwXYW8YDwCtA 提取码：0909 
 
 第一步：将接口保存到本地服务器，这里建议用phpstudy搭建一个本地服务器，数据库名一定要和表名一样，自定义得去另行配置，这里不详说
+![image](https://github.com/yateszou/uni-shop-project/blob/master/readmeImg/p1.png)
 
 第二步：导入表到数据库中，提示：字符集记得选择utf-8
 
