@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="http://www.itcast.cn/2018czydz/images/gywmban.jpg"></image><view class="info"><view data-event-opts="{{[['tap',[['callMe',['$event']]]]]}}" bindtap="__e">联系电话：176-0529-2122(点击拨打)</view><view>联系地址：圣诞岛</view></view><map class="map" longitude="{{longitude}}" latitude="{{latitude}}" scale="{{scale}}" markers="{{markers}}"></map></view>
