@@ -1,7 +1,7 @@
 # uni-shop-project
 基于uniapp开发的一个商场+项目
 
-运行第一步首先下载后台支持以及api接口，地址：链接：https://pan.baidu.com/s/1jDFHsPC_dvjwXYW8YDwCtA 提取码：0909 
+运行第一步首先下载后台支持以及api接口，链接：https://pan.baidu.com/s/1jDFHsPC_dvjwXYW8YDwCtA 提取码：0909 
 
 第一步：将接口保存到本地服务器，这里建议用phpstudy搭建一个本地服务器，数据库名一定要和表名一样，自定义得去另行配置，这里不详说
 ![image](https://s1.ax1x.com/2020/09/16/wcxMpn.png)
